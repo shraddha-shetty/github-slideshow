@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-HELLO!!!WELCOME TO MY GITPAGE
+Have A Good Day!
 Use the left arrow to go back!
